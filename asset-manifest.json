@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/report-realm/static/css/main.b79c6939.css",
-    "main.js": "/report-realm/static/js/main.8f3a234c.js",
-    "static/js/453.b2157c12.chunk.js": "/report-realm/static/js/453.b2157c12.chunk.js",
-    "static/media/Spinner-1.4s-217px.gif": "/report-realm/static/media/Spinner-1.4s-217px.62c6d06f2fc8ccaae691.gif",
-    "index.html": "/report-realm/index.html",
-    "main.b79c6939.css.map": "/report-realm/static/css/main.b79c6939.css.map",
-    "main.8f3a234c.js.map": "/report-realm/static/js/main.8f3a234c.js.map",
-    "453.b2157c12.chunk.js.map": "/report-realm/static/js/453.b2157c12.chunk.js.map"
+    "main.css": "/Rushikesh2912/report-realm/static/css/main.b79c6939.css",
+    "main.js": "/Rushikesh2912/report-realm/static/js/main.a8611211.js",
+    "static/js/453.b2157c12.chunk.js": "/Rushikesh2912/report-realm/static/js/453.b2157c12.chunk.js",
+    "static/media/Spinner-1.4s-217px.gif": "/Rushikesh2912/report-realm/static/media/Spinner-1.4s-217px.62c6d06f2fc8ccaae691.gif",
+    "index.html": "/Rushikesh2912/report-realm/index.html",
+    "main.b79c6939.css.map": "/Rushikesh2912/report-realm/static/css/main.b79c6939.css.map",
+    "main.a8611211.js.map": "/Rushikesh2912/report-realm/static/js/main.a8611211.js.map",
+    "453.b2157c12.chunk.js.map": "/Rushikesh2912/report-realm/static/js/453.b2157c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b79c6939.css",
-    "static/js/main.8f3a234c.js"
+    "static/js/main.a8611211.js"
   ]
 }
