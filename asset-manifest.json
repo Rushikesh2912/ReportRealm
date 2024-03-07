@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/report-realm/static/css/main.b79c6939.css",
-    "main.js": "/report-realm/static/js/main.01cb0eed.js",
-    "static/js/453.b2157c12.chunk.js": "/report-realm/static/js/453.b2157c12.chunk.js",
-    "static/media/Spinner-1.4s-217px.gif": "/report-realm/static/media/Spinner-1.4s-217px.62c6d06f2fc8ccaae691.gif",
-    "index.html": "/report-realm/index.html",
-    "main.b79c6939.css.map": "/report-realm/static/css/main.b79c6939.css.map",
-    "main.01cb0eed.js.map": "/report-realm/static/js/main.01cb0eed.js.map",
-    "453.b2157c12.chunk.js.map": "/report-realm/static/js/453.b2157c12.chunk.js.map"
+    "main.css": "/ReportRealm/static/css/main.b79c6939.css",
+    "main.js": "/ReportRealm/static/js/main.5cd2879f.js",
+    "static/js/453.b2157c12.chunk.js": "/ReportRealm/static/js/453.b2157c12.chunk.js",
+    "static/media/Spinner-1.4s-217px.gif": "/ReportRealm/static/media/Spinner-1.4s-217px.62c6d06f2fc8ccaae691.gif",
+    "index.html": "/ReportRealm/index.html",
+    "main.b79c6939.css.map": "/ReportRealm/static/css/main.b79c6939.css.map",
+    "main.5cd2879f.js.map": "/ReportRealm/static/js/main.5cd2879f.js.map",
+    "453.b2157c12.chunk.js.map": "/ReportRealm/static/js/453.b2157c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b79c6939.css",
-    "static/js/main.01cb0eed.js"
+    "static/js/main.5cd2879f.js"
   ]
 }
