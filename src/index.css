@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Define initial styles */
+#myCardBody {
+  background-color: #f0f0f0; /* Initial background color */
+  transition: background-color 0.3s ease; /* Add transition effect */
+}
+
+/* Define hover effect */
+#myCardBody:hover {
+  background-color: #ccccccdf; /* New background color on hover */
+}
